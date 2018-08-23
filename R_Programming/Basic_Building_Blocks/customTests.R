@@ -19,7 +19,7 @@ getExpr <- function(){
 submit_log <- function(){
   
   # Please edit the link below
-  pre_fill_link <- "https://docs.google.com/forms/d/1ngWrz5A5w5RiNSuqzdotxkzgk0DKU-88FmnTHj20nuI/viewform?entry.1733728592"
+  pre_fill_link <- "https://docs.google.com/forms/d/e/1FAIpQLSc9DECcWMyk5bMu6AVjZeeo8vKT-fvbUByaHsGhJbaTPG9JDw/viewform?usp=pp_url"
   
   # Do not edit the code below
   if(!grepl("=$", pre_fill_link)){
